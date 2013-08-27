@@ -15,19 +15,17 @@
 		Lorem Ipsum passages, and more recently with desktop 
 		publishing software like Aldus PageMaker including 
 		versions of Lorem Ipsum.</p>
+					<li>home</li>
+						<li>about</li>
+							<li>content</li>
 			<div>
-		<nav>
-	      <li>Home
-	      <li>about
-	      <li>Content
-	  <nav>
-	      <header> This is the header
-				</header>
-					<section> this is the section
-					</section>
-						<aside> This is the aside
-						</aside>
-				<footer> This is the footer The end
-				</footer>
-			</div>
-		</body
+			
+				<header>
+			<nav>this is the nav</nav>
+				<header> this is the header </header>
+	      					<section> this the section </section>
+	      							<aside> this the aside </aside>
+	     						<footer> This is the footer </footer> 
+				The end</div>
+		</body>
+</html>
